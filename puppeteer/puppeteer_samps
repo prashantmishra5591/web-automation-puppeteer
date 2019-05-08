@@ -1,0 +1,50 @@
+device underline not working
+text showing big
+
+
+
+
+1) Why it was taking lots of time to add background to the artboard.
+2) When user add textbox then textbox is added top of the artboard, I think it should get add little bit downside. 
+3) In mobile devices : Image rotation issue is still exist.
+4) In mobile devices : Left toolbar is showing large after gets open i.e : backgrounds/stamps etc... 
+5) Mobile Device : Stamps are added too small on the artbaord.
+6) Ar projects are not loading when user redirects back from pdp page.
+7) Drop shadow  appears to the textbox when there is a dark/solid background present.
+8) stamps/images should not allow to the minimum shrink
+9) Layout : When background is added and user add layout then all previously added "images/text" modal appear. (Same modal appear when user removes layout, when not any objects are added.)
+10) When we move any object in canvas with "keyboard arrow key" it is moving slowly as compare to previously.
+
+11) When user add stamps the stamps should be added right side of the canvas/artboard.
+
+
+12) 16oz, 10oz , 17oz , 20oz, 24oz,30oz, Beer mug, waterbottle
+
+
+http://dlt-customizer.azurewebsites.net/Artboard.html?projectID=3c22643c-49e0-451a-8541-7baa366e0952
+
+
+
+https://github.com/GoogleChrome/puppeteer/issues/1648
+
+  await page.setViewport({width: 1280, height: 768});
+  
+  
+  VS code . 
+  Vs team service
+  
+  repository
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
